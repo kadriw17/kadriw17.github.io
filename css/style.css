@@ -4,18 +4,18 @@
     color: floralwhite;
     font-size: 15vw;
 }
-.name:hover
+.title:hover
 { 
-    font-size: 40px;
+    font-size: 40vw;
 }
 
 
 .head1
 
 {
-    color: white;
+    color: floralwhite;
     font-family: 'Dancing Script', cursive;
-    font-size: 45px;
+    font-size: 45vw;
 	text-align: center
 }
   
@@ -23,7 +23,7 @@
  {
     color: white;
     font-family: 'Dancing Script', cursive;
-    font-size: 45px;
+    font-size: 10vw;
     text-align: center
  }
   
@@ -31,7 +31,7 @@
  {
     color: white;
     font-family: 'Dancing Script', cursive;
-    font-size: 45px;
+    font-size: 10vw;
 	text-align: center
  }
  
@@ -39,7 +39,7 @@
  {
     color: white;
     font-family: 'Dancing Script', cursive;
-    font-size: 45px;
+    font-size: 10vw;
     text-align: center
  }
 html, body{
