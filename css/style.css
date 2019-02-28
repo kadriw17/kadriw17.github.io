@@ -4,11 +4,48 @@
     color: floralwhite;
     font-size: 15vw;
 }
+.name:hover
+{ 
+    font-size: 40px;
+}
 
+
+.head1
+
+{
+    color: white;
+    font-family: 'Dancing Script', cursive;
+    font-size: 45px;
+	text-align: center
+}
+  
+.h2 
+ {
+    color: white;
+    font-family: 'Dancing Script', cursive;
+    font-size: 45px;
+    text-align: center
+ }
+  
+.h3
+ {
+    color: white;
+    font-family: 'Dancing Script', cursive;
+    font-size: 45px;
+	text-align: center
+ }
+ 
+.h4
+ {
+    color: white;
+    font-family: 'Dancing Script', cursive;
+    font-size: 45px;
+    text-align: center
+ }
 html, body{
-margin: 0;
-height: 100%;
-width: 100%;
+    margin: 0;
+    height: 100%;
+    width: 100%;
     
 }
 
