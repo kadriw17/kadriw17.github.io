@@ -1,6 +1,6 @@
 .logo{
     /*width: 17vw;*/
-    width: 573px
+    width: 573px;
 }
 
 html, body{
@@ -13,7 +13,7 @@ body{
     background: rgb(148,216,226);
     background: linear-gradient(0deg, rgba(148,216,226,1) 0%, rgba(203,104,187,1) 45%, rgba(95,58,105,1) 100%);
     background-size: cover;
-    background-repeat: repeat-y
+    background-repeat: no-repeat;
 }
 
 /*.section {
@@ -74,7 +74,7 @@ body{
     color: floralwhite;
     font-family: 'Dancing Script', cursive;
     font-size: 10vw;
-	text-align: center
+	text-align: center;
 }
   
 .h2 
@@ -82,7 +82,7 @@ body{
     color: white;
     font-family: 'Dancing Script', cursive;
     font-size: 10vw;
-    text-align: center
+    text-align: center;
  }
   
 .h3
@@ -90,7 +90,7 @@ body{
     color: white;
     font-family: 'Dancing Script', cursive;
     font-size: 10vw;
-	text-align: center
+	text-align: center;
  }
  
 .h4
@@ -98,5 +98,5 @@ body{
     color: white;
     font-family: 'Dancing Script', cursive;
     font-size: 10vw;
-    text-align: center
+    text-align: center;
  }
