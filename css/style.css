@@ -58,12 +58,12 @@ body{
     text-align: center;
     font-family: 'Dancing Script',cursive;
     color: floralwhite;
-    font-size: 15vw;
+    font-size: 12vw;
 }
 
 .title:hover
 { 
-    font-size: 20vw;
+    font-size: 15vw;
 }
 
 
@@ -73,7 +73,7 @@ body{
 {
     color: floralwhite;
     font-family: 'Dancing Script', cursive;
-    font-size: 10vw;
+    font-size: 8vw;
 	text-align: center;
 }
   
@@ -81,7 +81,7 @@ body{
  {
     color: white;
     font-family: 'Dancing Script', cursive;
-    font-size: 10vw;
+    font-size: 8vw;
     text-align: center;
  }
   
@@ -89,7 +89,7 @@ body{
  {
     color: white;
     font-family: 'Dancing Script', cursive;
-    font-size: 10vw;
+    font-size: 8vw;
 	text-align: center;
  }
  
@@ -97,6 +97,6 @@ body{
  {
     color: white;
     font-family: 'Dancing Script', cursive;
-    font-size: 10vw;
+    font-size: 8vw;
     text-align: center;
  }
