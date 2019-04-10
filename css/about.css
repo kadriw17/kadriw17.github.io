@@ -3,7 +3,7 @@
     width: 573px;
 }
 
-html{
+html, body{
     margin:0;
     height: 150%;
     width: 100%; 
