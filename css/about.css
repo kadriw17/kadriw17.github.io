@@ -51,8 +51,6 @@ body{
   color: black;
 }
 
-
-
 .title {
     text-align: center;
     font-family: 'Dancing Script',cursive;
@@ -60,6 +58,13 @@ body{
     font-size: 15vw;
 }
 
+.section intro {
+    position: relative;
+    overflow: hidden;
+    width: auto;
+    height: auto;
+    
+}
 /*
 .head1
 
