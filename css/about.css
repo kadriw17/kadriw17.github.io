@@ -61,11 +61,11 @@ body{
 .section intro {
     position: relative;
     overflow: hidden;
-    width: auto;
+    width: cover;
     height: auto;
     
 }
-/*
+
 .head1
 
 {
@@ -74,7 +74,8 @@ body{
     font-size: 10vw;
 	text-align: center;
 }
-  
+
+/*
 .h2 
  {
     color: white;
