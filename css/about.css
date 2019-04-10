@@ -59,7 +59,9 @@ body{
 }
 
 .section intro {
-    position: relative;
+    border-style: solid;
+    border-width: medium;
+    position: center;
     overflow: hidden;
     width: cover;
     height: auto;
