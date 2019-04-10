@@ -14,6 +14,7 @@ body{
     background: linear-gradient(0deg, rgba(148,216,226,1) 0%, rgba(203,104,187,1) 45%, rgba(95,58,105,1) 100%);
     background-size: 600px 100px;
     background-repeat: no-repeat;
+    text-align: center;
 }
 
 /*.section {
