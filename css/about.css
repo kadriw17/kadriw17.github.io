@@ -3,13 +3,14 @@
     width: 573px;
 }
 
-html, body{
-    margin: 0;
-    height: 200%;
+html{
+    margin-top:10vw;
+    height: 150%;
     width: 100%; 
 }
 
 body{
+    margin: 0;
     background: rgb(148,216,226);
     background: linear-gradient(0deg, rgba(148,216,226,1) 0%, rgba(203,104,187,1) 45%, rgba(95,58,105,1) 100%);
     background-size: cover;
@@ -51,12 +52,12 @@ body{
   color: black;
 }
 
-.title {
+/*.title {
     text-align: center;
     font-family: 'Dancing Script',cursive;
     color: floralwhite;
     font-size: 15vw;
-}
+}*/
 
 .section intro {
     border-style: solid;
@@ -85,13 +86,5 @@ body{
   text-align: center;
 }
 
-
-.p
- {
-    color: black;
-    font-family: cursive;
-    font-size: 6vw;
-    text-align: center;
- }
   
 
