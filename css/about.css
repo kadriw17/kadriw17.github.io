@@ -85,5 +85,38 @@ body{
   text-align: center;
 }
 
+.education {
+    padding: 50px 15px 20px 15px;
+    box-sizing: border-box;
+    border-bottom: 1px solid #dcd9d9;
+    text-align: center; 
+    font-family: 'lato', sans-serif;
+    font-size: 16px;
+    line-height: 1.42857143;
+    color: #333;
+}
+
+.skills {
+    padding: 50px 15px;
+    box-sizing: border-box;
+    border-bottom: 1px solid #dcd9d9;
+    text-align: center; 
+    font-family: 'lato', sans-serif;
+    font-size: 16px;
+    line-height: 1.42857143;
+    color: #333;
+}
+
+.contact{
+    padding: 50px 15px;
+    box-sizing: border-box;
+    border-bottom: 1px solid #dcd9d9;
+    background: #3498db
+    text-align: center; 
+    font-family: 'lato', sans-serif;
+    font-size: 16px;
+    line-height: 1.42857143;
+    color: #333;
+}
   
 
