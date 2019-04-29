@@ -88,12 +88,14 @@ body{
 .skills {
     padding: 50px 15px;
     box-sizing: border-box;
-    border-bottom: 1px solid #dcd9d9;
+    border-bottom: 2px solid #dcd9d9;
     text-align: center; 
-    font-family: 'lato', sans-serif;
     font-size: 16px;
     line-height: 1.42857143;
     color: #333;
+    padding:50px 15px 20px 15px;
+    margin: auto;
+
 }
 
 #contact{
@@ -102,6 +104,7 @@ body{
     border-bottom: 2px solid #dcd9d9;
     background: #3498db;
     margin: auto;
+    text-align: center;
     
 }
 
