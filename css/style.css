@@ -28,8 +28,10 @@ body{
 /*gotten from css website so try out*/
 /* Add a black background color to the top navigation */
 .topnav {
-  background-color: #333;
-  overflow: hidden;
+    background-color: #333;
+    opacity: .7;
+    overflow: hidden;
+    
 }
 
 /* Style the links inside the navigation bar */
@@ -51,6 +53,7 @@ body{
 /* Add a color to the active/current link */
 .topnav a.active {
   background-color: white;
+    opacity: .5;
   color: black;
 
 }
@@ -62,7 +65,7 @@ body{
     font-size: 12vw;
 }
 
-.title:hover
+.title: hover
 { 
     font-size: 15vw;
 }
@@ -76,28 +79,52 @@ body{
 	text-align: center;
 }
   
-.h2 
- {
-    color: white;
-    font-family: 'Dancing Script', cursive;
-    font-size: 8vw;
-    text-align: center;
- }
-  
-.h3
- {
-    color: white;
-    font-family: 'Dancing Script', cursive;
-    font-size: 8vw;
-	text-align: center;
- }
  
-.h4
+#skills{
+    padding:50px 15px;
+    text-align:center;
+}
+
+
+#skills ul{
+    display:block;
+    margin:0 auto;
+    padding:0;
+    max-width:800px;
+}
+
+ul {
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-incline-start: 40px;
+    box-sizing: border-box;
+}
+
+#skills li{
+    display:inline-block;
+    margin:3px;
+    padding:5px 10px;
+    color:#374054;
+    background:#e4e4ea;
+    list-style:none;
+    cursor:default;
+    font-size:1px;
+    box-sizing: border-box;
+}
+
+
+
+.h2
  {
     color: white;
     font-family: 'Dancing Script', cursive;
     font-size: 8vw;
     text-align: center;
+     margin-bottom: 10px;
+     margin-top: 20px;
  }
 
 footer{padding:50px 0}
